@@ -37,7 +37,12 @@
     flex-direction: column;
     margin-right: 0.5rem;
   }
-  
+  .navbar_icon {
+    width: 50px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 20px; /* Example margin, adjust as desired */
+    /* Additional styles (e.g., border-radius, box-shadow, etc.) can be added here */
+  }
   .top-icons {
     display: flex;
     flex-direction: column;
